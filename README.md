@@ -82,8 +82,7 @@ make -j4
 
 ## Note 
 
-To see our original source of paper "Topology Optimization of Self-supporting Structures for Additive Manufacturing using
-Implicit B-splines Representation".
+This repository contains the original source code for our paper "Efficient Worst-Case Topology Optimization of Self-Supporting Structures for Additive Manufacturing".
 
 
 
