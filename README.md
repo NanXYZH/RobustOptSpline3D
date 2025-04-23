@@ -1,4 +1,4 @@
-# Efficient Worst-Case Topology Optimization of Self-Supporting Structures for Additive Manufacturing
+# Topology Optimization of Self-supporting Structures for Additive Manufacturing using Implicit B-splines Representation
 
 
 
@@ -82,7 +82,8 @@ make -j4
 
 ## Note 
 
-This repository contains the original source code for our paper "Efficient Worst-Case Topology Optimization of Self-Supporting Structures for Additive Manufacturing".
+To see our original source of paper "Topology Optimization of Self-supporting Structures for Additive Manufacturing using
+Implicit B-splines Representation".
 
 
 
