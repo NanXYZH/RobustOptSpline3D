@@ -1,4 +1,4 @@
-# Topology Optimization of Self-supporting Structures for Additive Manufacturing using Implicit B-splines Representation
+# Efficient worst-case topology optimization of self-supporting structures for additive manufacturing
 
 
 
@@ -82,8 +82,7 @@ make -j4
 
 ## Note 
 
-To see our original source of paper "Topology Optimization of Self-supporting Structures for Additive Manufacturing using
-Implicit B-splines Representation".
+See our original source of paper "Efficient worst-case topology optimization of self-supporting structures for additive manufacturing".
 
 
 
